@@ -1,4 +1,4 @@
-# Scraping Reddit Metrics Cryptocurrency Data
+# Scraping Reddit Metrics For Cryptocurrency Data
 
 ### About
 Script to pull Subscriber Growth and Total Follower Count data from Reddit Metrics.
